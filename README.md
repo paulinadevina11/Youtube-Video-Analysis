@@ -1,4 +1,4 @@
-# Youtube-Video-Analysis
+# Youtube-Video-Analysis-Project
 YouTube is one of the world's largest streaming platforms, hosting over 800 million videos. However, only a small fraction of these videos gain widespread attention and become "viral" or "trending." This project aims to analyze the vast collection of YouTube videos and identify patterns that differentiate viral videos from regular ones.
 
 To assess the quality of a video, we use three key numerical parameters:
